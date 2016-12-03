@@ -3,12 +3,13 @@ It is a simple command line JS script that showcases Binary Search.
 
 # How do I use it?
 Easy.
+
 1. clone to your dev environment
-- navigate inside the folder
-- run `node main.js`
-- pick a number from the array shown on screen
-- type that number
-- press `Enter`
+1. navigate inside the folder
+1. run `node main.js`
+1. pick a number from the array shown on screen
+1. type that number
+1. press `Enter`
 
 # Why?
 
