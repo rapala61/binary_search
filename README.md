@@ -1,6 +1,10 @@
 # What is this?
 It is a simple command line JS script that showcases Binary Search.
 
+### Resources
+- [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+- [khanacademy](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+
 # How do I use it?
 Easy.
 
