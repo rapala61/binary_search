@@ -5,7 +5,7 @@ It is a simple command line JS script that showcases Binary Search.
 Easy.
 1. clone to your dev environment
 - navigate inside the folder
-- run `node bSearch.js`
+- run `node main.js`
 - pick a number from the array shown on screen
 - type that number
 - press `Enter`
